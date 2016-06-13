@@ -19,7 +19,7 @@ In the light of the large numbers of assaults and kidnaps, we have a habit of ca
 ###Extra Features
 
 * Facebook integration.
-* Your contacts beeing able to track you in real time if you allow them.
+* Your contacts beeing able to track you in real time during your trip if you allow them.
 
 ## Usage
 
