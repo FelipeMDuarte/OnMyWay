@@ -7,7 +7,7 @@ The app will act in two fronts, for users who wants to inform someone that somet
 
 ## Motivation
 
-	In the light of the large numbers of assaults and kidnaps, we have a habit of calling when we arrive at our destination to warn to a acquainted that we got there ok. The app goal is to do this automatically and also warn when we do not arrive for some reason and the search for apps that in some way help the users to deal with this problems has increased.
+In the light of the large numbers of assaults and kidnaps, we have a habit of calling when we arrive at our destination to warn to a acquainted that we got there ok. The app goal is to do this automatically and also warn when we do not arrive for some reason and the search for apps that in some way help the users to deal with this problems has increased.
 
 ## Features
 
