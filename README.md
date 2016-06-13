@@ -41,8 +41,7 @@ Open “On My Way” and configure your trusted contacts informations. After tha
 
 ## What are we doing!?
 
-You can see what are we working now in our task dashboard: https://trello.com/b/w5NioYLS/on-my-way 
-
+You can see what we are working now in our task dashboard: https://trello.com/b/w5NioYLS/on-my-way 
 
 ## License
 
