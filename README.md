@@ -1,4 +1,4 @@
-# OnMyWay
+﻿# OnMyWay
 Trabalho da disciplina de Software para Smartphone 2016/1
 
 ## Synopsis
@@ -44,7 +44,12 @@ Open “On My Way” and configure your trusted contacts informations. After tha
 You can see what we are working now in our task dashboard: https://trello.com/b/w5NioYLS/on-my-way 
 
 ### Team Members
+Emanuelle Schiavon - 
 Fellipe Sombra - fellipesombra@gmail.com
+Felipe Duarte - felipeduarte012@gmail.com
+Lucas Roque - lroquemisc@gmail.com
+Raffael Siqueira - 
+Vitor Trindade - 
 
 ## License
 
