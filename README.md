@@ -44,12 +44,12 @@ Open “On My Way” and configure your trusted contacts informations. After tha
 You can see what we are working now in our task dashboard: https://trello.com/b/w5NioYLS/on-my-way 
 
 ### Team Members
-Emanuelle Schiavon - 
-Fellipe Sombra - fellipesombra@gmail.com
-Felipe Duarte - felipeduarte012@gmail.com
-Lucas Roque - lroquemisc@gmail.com
-Raffael Siqueira - 
-Vitor Trindade - 
+- Emanuelle Schiavon - 
+- Fellipe Sombra - fellipesombra@gmail.com
+- Felipe Duarte - felipeduarte012@gmail.com
+- Lucas Roque - lroquemisc@gmail.com
+- Raffael Siqueira - 
+- Vitor Trindade - emailreservadovitor@gmail.com
 
 ## License
 
