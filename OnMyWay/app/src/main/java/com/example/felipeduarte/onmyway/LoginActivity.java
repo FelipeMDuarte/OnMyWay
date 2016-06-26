@@ -86,7 +86,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
     private void callWebService(CharSequence text, final String android_id) {
         RequestQueue queue = Volley.newRequestQueue(this);
-        String url = "http://www.google.com";
+        String url = "http://localhost:8080";
         StringRequest stringRequest = new StringRequest(Request.Method.POST, url,createMyReqSuccessListener(),createMyReqErrorListener()) {
 
             protected Map<String, String> getParams() throws com.android.volley.AuthFailureError {
